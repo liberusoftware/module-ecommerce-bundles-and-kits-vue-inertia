@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-bundles-and-kits-vue-inertia",
+  "capabilityKey": "planned:ecommerce:bundles-and-kits",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-bundles-and-kits-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/bundles-and-kits.md",
+  "presentationPlan": "projects/ecommerce/vue/bundles-and-kits.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
